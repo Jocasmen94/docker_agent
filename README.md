@@ -17,3 +17,4 @@ docker run -e AZP_URL=$AZP_URL -e AZP_TOKEN=$AZP_TOKEN -e AZP_AGENT_NAME=$AZP_AG
 sed -i '/export AZP_TOKEN="zhaivjr2iuhkxf4wt5iu5u2yi2kz7mrxv7nbw4kbo4dghphvuyga"/d' ~/.bashrc or  sudo nano ~/.bashrc and delete it manually
 source ~/.bashrc
 
+test
